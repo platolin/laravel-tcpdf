@@ -1,5 +1,5 @@
 {
-  "name": "elibyy/laravel-tcpdf",
+  "name": "platolin/laravel-tcpdf",
   "description": "tcpdf support for laravel 5",
   "minimum-stability": "stable",
   "license": "proprietary",
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Elibyy\\TCPDF\\": "src/"
+      "platolin\\TCPDF\\": "src/"
     }
   }
 }
