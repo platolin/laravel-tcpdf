@@ -1,6 +1,6 @@
 <?php
 
-namespace Elibyy\TCPDF\Facades;
+namespace platolin\TCPDF\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
