@@ -1,6 +1,6 @@
 <?php
 
-namespace Elibyy\TCPDF;
+namespace platolin\TCPDF;
 
 use TCPDF;
 use \Config;
