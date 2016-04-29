@@ -1,6 +1,6 @@
 <?php
 
-namespace Elibyy\TCPDF;
+namespace platolin\TCPDF;
 
 use \Config;
 use Illuminate\Foundation\AliasLoader;
